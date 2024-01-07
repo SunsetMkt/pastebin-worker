@@ -1,3 +1,3 @@
 export default {
-  BASE_URL: 'https://as.al',
+  BASE_URL: 'https://pastes.lwd-temp.top',
 };
