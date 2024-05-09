@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@cloudflare/workers-types": "^4.20231121.0",
-    "hono": "^3.11.7",
+    "hono": "^4.2.7",
     "itty-router": "^3.0.11",
     "nanoid": "^4.0.0"
   }
