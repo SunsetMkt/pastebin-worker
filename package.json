@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@cloudflare/kv-asset-handler": "^0.3.0",
-    "wrangler": "^3.53.1"
+    "wrangler": "^3.55.0"
   },
   "dependencies": {
     "@cloudflare/workers-types": "^4.20240502.0",
